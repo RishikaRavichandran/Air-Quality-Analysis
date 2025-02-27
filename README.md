@@ -1,4 +1,4 @@
-# Air Quality Analysis - Week 3
+# Air Quality Analysis 
 
 ## Project Overview
 
